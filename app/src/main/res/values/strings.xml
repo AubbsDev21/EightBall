@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Eight Ball</string>
+
+    <string name="No">NO!!!!</string>
+    <string name="NOT">NOT AT ALL!!!!</string>
+    <string name="Yes">Yes</string>
+    <string name="Got_it">You got it!!!</string>
+</resources>
